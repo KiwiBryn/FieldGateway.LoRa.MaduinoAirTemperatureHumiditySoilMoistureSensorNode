@@ -1,7 +1,7 @@
 # FieldGateway.LoRa.MaduinoAirTemperatureHumiditySoilMoistureSensorNode
 This sample MakerFabs Maduinio client for my [LoRa](https://lora-alliance.org/) field gateway projects will run indefinitely as long as the battery/solar panel are suitably sized, the solar panel is kept clean and the device isn't shaded.
 
-Solar Powered MakerFabs Maduinio with air temperature, humidity and soil moisture sensors client for my Windows 10 IoT Core LoRa field gateways. The device is a bit dusty as I have been running it on the Window sill for six months to test battery & solar panel sizing. T
+Solar Powered MakerFabs Maduinio with air temperature, humidity and soil moisture sensors client for my Windows 10 IoT Core LoRa field gateways. The device is a bit dusty as I have been running it on the Window sill for six months to test battery & solar panel sizing.
 
 
 My Maduino client uses
